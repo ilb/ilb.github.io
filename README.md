@@ -7,6 +7,6 @@
 
 [Как написать web-приложение на Java](jparestresource/howto_writewebapp.xhtml)
 
-# Администрирования
+# Администрирование
 
 [Настройка сервера и рабочего места](https://ilb.github.io/osboxes/)
