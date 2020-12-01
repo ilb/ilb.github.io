@@ -3,6 +3,10 @@
 Технологическая платформа представлена комплексом библиотек и движков, позволяющих вести разработку ПО
 на различных языках программирования: php, java, javascript, python, c++ и др.
 
-# jparestresource
+# Разработка
 
-[Как написать web-приложение](jparestresource/howto_writewebapp.html)
+[Как написать web-приложение на Java](jparestresource/howto_writewebapp.xhtml)
+
+# Администрирования
+
+[Настройка сервера и рабочего места](https://ilb.github.io/osboxes/)
