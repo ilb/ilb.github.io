@@ -4,7 +4,7 @@
 на различных языках программирования: php, java, javascript, python, c++ и др.
 
 # Методология
-[Методология разработки ПО](devmethodology/)
+[Методология разработки ПО](devmethodology/contents.xhtml)
 
 # Тестовые задания
 
