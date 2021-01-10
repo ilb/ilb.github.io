@@ -10,11 +10,3 @@
 3. [Тестовое задание sql](https://github.com/ilb/sql-test-app)
 4. [Тестовое задание react](https://github.com/ilb/react-test-app)
 4. [Тестовое задание CV](https://github.com/ilb/opencv-test-app)
-
-# Разработка
-
-[Как написать web-приложение на Java](jparestresource/howto_writewebapp.xhtml)
-
-# Администрирование
-
-[Настройка сервера и рабочего места](https://ilb.github.io/osboxes/)
